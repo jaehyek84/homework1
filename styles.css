@@ -1,2 +1,17 @@
-navbar-light .navbar-brand {
-    color: red}
+body {
+font-family: 'Oswald', sans-serif;
+}
+h1 {
+font-family: 'Oswald', sans-serif;
+font-size: 25pt;
+}
+h2.header {
+font-family: 'Roboto', sans-serif;
+}
+img {
+  width: 400px;
+}
+
+img.img-fluid {
+  width: 1000px;
+}
